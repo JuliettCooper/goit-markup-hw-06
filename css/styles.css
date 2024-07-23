@@ -77,10 +77,10 @@ nav ul li {
     color: #2e2f42;
 }
 
-/* .header-menu-list {
+.header-menu-list {
     display: none;
     gap: 40px;
-} */
+}
 
 .header-menu-link {
     padding: 24px 0;
